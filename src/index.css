@@ -38,3 +38,11 @@
   animation:3s linear 3s infinite rot;
 }
 
+#tooltip{
+  padding:5px;
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  text-align:left;
+}
