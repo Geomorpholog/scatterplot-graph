@@ -32,7 +32,7 @@ export default function Graph(props){
                           .data(dataSet)
                           .enter()
                           .append("circle")
-                          .attr("className","dot")
+                          .attr("class","dot")
                           .attr("name", d => d["Name"])
                           .attr("time", d => d["Time"])
                           .attr("doping",d => d["Doping"])
