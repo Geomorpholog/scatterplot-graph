@@ -2,6 +2,7 @@
   "name": "scatterplot-graph",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://github.io/Geomorpholog/scatterplot-graph",
   "dependencies": {
     "@fontsource/oswald": "^5.0.20",
     "@testing-library/jest-dom": "^5.17.0",
